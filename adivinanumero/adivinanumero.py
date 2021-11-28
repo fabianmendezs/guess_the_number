@@ -82,13 +82,3 @@ while jugar == 1:
         elif jugar != 'si' or jugar != 'SI' or jugar != 'sI' or jugar != 'Si' or jugar != 'no' or jugar != 'NO' or jugar != 'No' or jugar != 'nO':
             print("\nPor favor, responde si quieres volver a jugar.")
             jugar = 'fin'
-            
-        
-
-
-    
-    
-        
-        
-
-
