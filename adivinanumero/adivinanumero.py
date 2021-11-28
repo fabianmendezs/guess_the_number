@@ -2,7 +2,7 @@ import random
 jugar = 1
 print("Bienvenido/a! :D")
 while jugar == 1:
-    print("\nIntenta adivinar el número entre 1 y 20, tienes 3 intentos.\n")
+    print("\nIntenta adivinar el número entre 1 y 20, tienes 3 intentos.")
     n = random.randint(1,20)
     intentos = 0
     while jugar == 1 and intentos < 3:
