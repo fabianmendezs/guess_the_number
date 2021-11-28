@@ -1,6 +1,6 @@
 import random
 jugar = 1
-print("Bienvenidos/as a todos!")
+print("Bienvenidos/as a todos! :D")
 while jugar == 1:
     print("\nIntenta adivinar el número entre 1 y 20, tienes 3 intentos.\n")
     n = random.randint(1,20)
