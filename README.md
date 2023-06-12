@@ -1,2 +1,2 @@
-# proyectospython
- Mis proyectos personales en Python
+# starter_projects
+ Mis proyectos de iniciación en Python
